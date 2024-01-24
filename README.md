@@ -5,8 +5,8 @@ Group Name: __Fill your team name__.
 Section: __Fill your class section__. 
 
 Team Mates:
-1. __MUHAMMAD AMMAR BIN ZAKIRUDIN__ and __2124953__
-2. __MUHAMMAD AL SYAHMI BIN MOHD WARDI__ and __2127171__
+1. __MUHAMMAD AMMAR BIN ZAKIRUDIN__ __2124953__
+2. __MUHAMMAD AL SYAHMI BIN MOHD WARDI__ __2127171__
 
 ## Rules
 1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
